@@ -1,0 +1,4 @@
+package experiment3.modelParallelStream.generated;
+public class ParallelStreamDSAESBenchmark_jmhType extends ParallelStreamDSAESBenchmark_jmhType_B3 {
+}
+

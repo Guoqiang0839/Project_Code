@@ -1,0 +1,4 @@
+package experiment3.modelThreads.generated;
+public class ThreadedEncryptionDecryptionBenchmark_jmhType extends ThreadedEncryptionDecryptionBenchmark_jmhType_B3 {
+}
+

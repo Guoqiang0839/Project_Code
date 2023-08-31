@@ -1,0 +1,4 @@
+package experiment3.modelExecutors.generated;
+public class ExecutorsEncryptionDecryptionBenchmark_jmhType extends ExecutorsEncryptionDecryptionBenchmark_jmhType_B3 {
+}
+

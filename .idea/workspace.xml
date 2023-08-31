@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67f24598-8020-4717-ac5e-1e668c139bda" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T6JWE4DJEboynIa1B5WnIOIgo2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/IDEA-CODE/Graduate_project_exp1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-CODE\Graduate_project_exp4\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.experiment3.modelExecutors.BenchmarkRunner">
+    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment3.modelThreads.BenchmarkRunner" />
+      <module name="Graduate_project_exp4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment3.modelThreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment3.modelExecutors.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment3.modelExecutors.BenchmarkRunner" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment3.modelExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment3.modelForkJoin.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment3.modelForkJoin.BenchmarkRunner" />
+      <module name="Graduate_project_exp4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment3.modelForkJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment3.modelParallelStream.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment3.modelParallelStream.BenchmarkRunner" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment3.modelParallelStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Graduate_project_exp4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.experiment3.modelExecutors.BenchmarkRunner" />
+        <item itemvalue="Application.experiment3.modelParallelStream.BenchmarkRunner" />
+        <item itemvalue="Application.BenchmarkRunner" />
+        <item itemvalue="Application.experiment3.modelForkJoin.BenchmarkRunner" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67f24598-8020-4717-ac5e-1e668c139bda" name="Changes" comment="" />
+      <created>1690357637112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690357637112</updated>
+      <workItem from="1690357638770" duration="35000" />
+      <workItem from="1690357792484" duration="8397000" />
+      <workItem from="1690395265960" duration="8398000" />
+      <workItem from="1690420574717" duration="397000" />
+      <workItem from="1690514316295" duration="553000" />
+      <workItem from="1690517871912" duration="2298000" />
+      <workItem from="1690520217628" duration="2299000" />
+      <workItem from="1690522644372" duration="2148000" />
+      <workItem from="1690611040679" duration="12000" />
+      <workItem from="1690611444353" duration="38000" />
+      <workItem from="1690612661867" duration="711000" />
+      <workItem from="1690619811544" duration="714000" />
+      <workItem from="1690626669331" duration="147000" />
+      <workItem from="1690627134419" duration="35000" />
+      <workItem from="1690627355283" duration="28000" />
+      <workItem from="1690627458264" duration="275000" />
+      <workItem from="1690669699245" duration="218000" />
+      <workItem from="1690672156684" duration="1421000" />
+      <workItem from="1690692707414" duration="20000" />
+      <workItem from="1690692982225" duration="592000" />
+      <workItem from="1690699513324" duration="863000" />
+      <workItem from="1690710868877" duration="13000" />
+      <workItem from="1690710914664" duration="21000" />
+      <workItem from="1690713935998" duration="563000" />
+      <workItem from="1690718343244" duration="2732000" />
+      <workItem from="1690788790744" duration="31000" />
+      <workItem from="1690849241857" duration="44000" />
+      <workItem from="1690849851849" duration="36000" />
+      <workItem from="1691211397713" duration="1414000" />
+      <workItem from="1691220248136" duration="808000" />
+      <workItem from="1691221382654" duration="864000" />
+      <workItem from="1691222261548" duration="192000" />
+      <workItem from="1691222498184" duration="31000" />
+      <workItem from="1691222973048" duration="1868000" />
+      <workItem from="1691672121370" duration="1331000" />
+      <workItem from="1692588864423" duration="1870000" />
+      <workItem from="1693508219817" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
