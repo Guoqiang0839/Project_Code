@@ -1,0 +1,4 @@
+package experiment2.modelExecutors.generated;
+public class ExecutorsWordCounterBenchmark_jmhType extends ExecutorsWordCounterBenchmark_jmhType_B3 {
+}
+

@@ -1,0 +1,17 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,experiment2/modelExecutors/ExecutorsWordCounterBenchmark.countWords
+inline,experiment2/modelExecutors/ExecutorsWordCounterBenchmark.prepare
+inline,experiment2/modelExecutors/ExecutorsWordCounterBenchmark.setup
+inline,experiment2/modelForkJoin/ForkJoinWordCounterBenchmark.countWords
+inline,experiment2/modelForkJoin/ForkJoinWordCounterBenchmark.prepare
+inline,experiment2/modelForkJoin/ForkJoinWordCounterBenchmark.setup
+inline,experiment2/modelParallelStream/ParallelStreamWordCounterBenchmark.countWords
+inline,experiment2/modelParallelStream/ParallelStreamWordCounterBenchmark.prepare
+inline,experiment2/modelParallelStream/ParallelStreamWordCounterBenchmark.setup
+inline,experiment2/modelThreads/ThreadWordCounterBenchmark.countWords
+inline,experiment2/modelThreads/ThreadWordCounterBenchmark.prepare
+inline,experiment2/modelThreads/ThreadWordCounterBenchmark.setup

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc41683a-fdc8-4bfe-b592-a77221d1f865" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T6IYH8TravovCKUQGmeE8ZYWYD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/IDEA-CODE/Graduate_project_exp3&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-CODE\Graduate_project_exp3\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="experiment3.modelConcurrentData" />
+      <recent name="experiment3.modelExecutors" />
+      <recent name="experiment3.modelForkJoin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.experiment2.modelExecutors.BenchmarkRunner">
+    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment2.modelThreads.BenchmarkRunner" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment2.modelThreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadWordCounterBenchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment2.modelThreads.ThreadWordCounterBenchmark" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment2.modelThreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment2.modelExecutors.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment2.modelExecutors.BenchmarkRunner" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment2.modelExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment2.modelForkJoin.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment2.modelForkJoin.BenchmarkRunner" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment2.modelForkJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment2.modelParallelStream.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment2.modelParallelStream.BenchmarkRunner" />
+      <module name="Graduate_project_exp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment2.modelParallelStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.experiment2.modelExecutors.BenchmarkRunner" />
+        <item itemvalue="Application.experiment2.modelForkJoin.BenchmarkRunner" />
+        <item itemvalue="Application.experiment2.modelParallelStream.BenchmarkRunner" />
+        <item itemvalue="Application.BenchmarkRunner" />
+        <item itemvalue="Application.ThreadWordCounterBenchmark" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc41683a-fdc8-4bfe-b592-a77221d1f865" name="Changes" comment="" />
+      <created>1690357150922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690357150922</updated>
+      <workItem from="1690357152483" duration="441000" />
+      <workItem from="1690526881401" duration="885000" />
+      <workItem from="1690604984861" duration="12722000" />
+      <workItem from="1690625368877" duration="534000" />
+      <workItem from="1690627384888" duration="9000" />
+      <workItem from="1690670388686" duration="1765000" />
+      <workItem from="1690674981044" duration="4561000" />
+      <workItem from="1690689217776" duration="2515000" />
+      <workItem from="1690692737655" duration="6125000" />
+      <workItem from="1690700396855" duration="359000" />
+      <workItem from="1690709219613" duration="607000" />
+      <workItem from="1690710773282" duration="18000" />
+      <workItem from="1690710853403" duration="14000" />
+      <workItem from="1690710937111" duration="55000" />
+      <workItem from="1690718112819" duration="229000" />
+      <workItem from="1690788739605" duration="49000" />
+      <workItem from="1690849195873" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
