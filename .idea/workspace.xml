@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c546fa35-21b8-48e4-a455-6b7d26732a36" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Sl8e51b5642hP1Sgp9dKlCPdXs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/IDEA-CODE/Graduate_project_exp1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-CODE\Graduate_project_exp2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.experiment1.modelThreads.BenchmarkRunner">
+    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment1.modelParallelStream.BenchmarkRunner" />
+      <module name="Graduate_project_exp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment1.modelParallelStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment1.modelExecutors.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment1.modelExecutors.BenchmarkRunner" />
+      <module name="Graduate_project_exp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment1.modelExecutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment1.modelForkJoin.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment1.modelForkJoin.BenchmarkRunner" />
+      <module name="Graduate_project_exp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment1.modelForkJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="experiment1.modelThreads.BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experiment1.modelThreads.BenchmarkRunner" />
+      <module name="Graduate_project_exp1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experiment1.modelThreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.experiment1.modelThreads.BenchmarkRunner" />
+        <item itemvalue="Application.experiment1.modelForkJoin.BenchmarkRunner" />
+        <item itemvalue="Application.BenchmarkRunner" />
+        <item itemvalue="Application.experiment1.modelExecutors.BenchmarkRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c546fa35-21b8-48e4-a455-6b7d26732a36" name="Changes" comment="" />
+      <created>1689709900294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689709900294</updated>
+      <workItem from="1689709901724" duration="4695000" />
+      <workItem from="1689715736259" duration="6313000" />
+      <workItem from="1689858713331" duration="710000" />
+      <workItem from="1689973360647" duration="3374000" />
+      <workItem from="1690324271907" duration="22308000" />
+      <workItem from="1690357897975" duration="3275000" />
+      <workItem from="1690396121223" duration="56000" />
+      <workItem from="1690396312135" duration="1722000" />
+      <workItem from="1690456826378" duration="6179000" />
+      <workItem from="1690501290345" duration="917000" />
+      <workItem from="1690503237867" duration="4582000" />
+      <workItem from="1690514266060" duration="36000" />
+      <workItem from="1690514885442" duration="2983000" />
+      <workItem from="1690519988265" duration="168000" />
+      <workItem from="1690521281600" duration="42000" />
+      <workItem from="1690526402030" duration="15000" />
+      <workItem from="1690526453540" duration="18000" />
+      <workItem from="1690526547591" duration="25000" />
+      <workItem from="1690611011548" duration="27000" />
+      <workItem from="1690611396231" duration="47000" />
+      <workItem from="1690614140173" duration="6002000" />
+      <workItem from="1690626817379" duration="315000" />
+      <workItem from="1690627395795" duration="3000" />
+      <workItem from="1690627447161" duration="9000" />
+      <workItem from="1690669923750" duration="463000" />
+      <workItem from="1690673580985" duration="1078000" />
+      <workItem from="1690680907493" duration="3000" />
+      <workItem from="1690690305966" duration="884000" />
+      <workItem from="1690692647611" duration="54000" />
+      <workItem from="1690699500753" duration="11000" />
+      <workItem from="1690710793487" duration="59000" />
+      <workItem from="1690710883088" duration="30000" />
+      <workItem from="1690714503248" duration="1622000" />
+      <workItem from="1690788699035" duration="39000" />
+      <workItem from="1690788823251" duration="599000" />
+      <workItem from="1690845894463" duration="649000" />
+      <workItem from="1690847797787" duration="637000" />
+      <workItem from="1690849889288" duration="2551000" />
+      <workItem from="1691211330942" duration="62000" />
+      <workItem from="1691212465396" duration="359000" />
+      <workItem from="1691220222144" duration="24000" />
+      <workItem from="1691220332949" duration="727000" />
+      <workItem from="1691221355855" duration="1067000" />
+      <workItem from="1693508358025" duration="480000" />
+      <workItem from="1693508853320" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
